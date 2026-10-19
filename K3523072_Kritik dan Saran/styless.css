@@ -1,0 +1,17 @@
+.bg{
+    background-color: #ab94d7;
+    margin: 0;
+    padding: 0;
+}
+.head{
+    background-color: #8b6dc3;
+    color: white;
+}
+.card-body{
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: justify;
+}
+footer{
+    background-color: #8b6dc3;
+}
